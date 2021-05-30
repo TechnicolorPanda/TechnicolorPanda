@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lorri.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning React and Test Driven Development.
+- 🌱 I’m currently learning React, Test Driven Development, and Firebase.
 - 🦔 Fun fact: I received my high school varsity letter in boys basketball for keeping the team statistics throughout high school.
 - 📫 How to reach me: LorriAnn7@gmail.com.
 
