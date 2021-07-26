@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lorri.
-- 👀 I’m interested in Web Development. I especially coding with Javascript and React.
+- 👀 I’m interested in Full Stack Web Development. I especially enjoy coding with Javascript and React!
 - 🌱 I’m currently learning NodeJS.
 - 🦔 Fun fact: If I am not coding, I am camping somewhere without electricity or wifi.
 - 📫 How to reach me: LorriAnn7@gmail.com.
