@@ -6,3 +6,5 @@
 
 I have had several careers throughout my life including being a social worker specializing in children, families, and sex offenders, a lawyer in the area of child welfare, and a stay at home mom. I am currently teaching myself Web Development through The Odin Project and I hope to work as a junior web developer. 
 
+> Visit my profile site at [technicolorpanda.github.io/lorri-romesberg](https://technicolorpanda.github.io/lorri-romesberg/)
+
